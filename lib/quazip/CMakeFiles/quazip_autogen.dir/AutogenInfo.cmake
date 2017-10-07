@@ -1,0 +1,33 @@
+# Directories and files
+set(AM_CMAKE_BINARY_DIR "/home/guoxnqiang/Downloads/Wizteam/build-WizQTClient-Desktop_Qt_5_7_0_GCC_64bit-Debug/")
+set(AM_CMAKE_SOURCE_DIR "/home/guoxnqiang/Downloads/Wizteam/WizQTClient/")
+set(AM_CMAKE_CURRENT_SOURCE_DIR "/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/")
+set(AM_CMAKE_CURRENT_BINARY_DIR "/home/guoxnqiang/Downloads/Wizteam/build-WizQTClient-Desktop_Qt_5_7_0_GCC_64bit-Debug/lib/quazip/")
+set(AM_CMAKE_INCLUDE_DIRECTORIES_PROJECT_BEFORE "")
+set(AM_BUILD_DIR "/home/guoxnqiang/Downloads/Wizteam/build-WizQTClient-Desktop_Qt_5_7_0_GCC_64bit-Debug/lib/quazip/quazip_autogen")
+set(AM_SOURCES "/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/JlCompress.cpp;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/qioapi.cpp;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quaadler32.cpp;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quacrc32.cpp;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quagzipfile.cpp;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quaziodevice.cpp;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quazip.cpp;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quazipdir.cpp;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quazipfile.cpp;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quazipfileinfo.cpp;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quazipnewinfo.cpp")
+set(AM_HEADERS "/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/JlCompress.h;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/crypt.h;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/ioapi.h;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quaadler32.h;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quachecksum32.h;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quacrc32.h;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quagzipfile.h;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quaziodevice.h;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quazip.h;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quazip_global.h;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quazipdir.h;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quazipfile.h;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quazipfileinfo.h;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/quazipnewinfo.h;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/unzip.h;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip/zip.h")
+# Qt environment
+set(AM_QT_VERSION_MAJOR "5")
+set(AM_QT_MOC_EXECUTABLE "/home/guoxnqiang/Qt5/5.7/gcc_64/bin/moc")
+set(AM_QT_UIC_EXECUTABLE )
+set(AM_QT_RCC_EXECUTABLE )
+# MOC settings
+set(AM_MOC_SKIP "")
+set(AM_MOC_DEFINITIONS "QT_CORE_LIB;QT_GUI_LIB;QT_NETWORK_LIB;QT_PRINTSUPPORT_LIB;QT_QML_LIB;QT_QUICK_LIB;QT_WEBCHANNEL_LIB;QT_WEBENGINECORE_LIB;QT_WEBENGINEWIDGETS_LIB;QT_WEBENGINE_LIB;QT_WEBSOCKETS_LIB;QT_WIDGETS_LIB;QT_XML_LIB")
+set(AM_MOC_INCLUDES "/home/guoxnqiang/Downloads/Wizteam/build-WizQTClient-Desktop_Qt_5_7_0_GCC_64bit-Debug/lib/quazip/quazip_autogen/include;/home/guoxnqiang/Qt5/5.7/gcc_64/include;/home/guoxnqiang/Qt5/5.7/gcc_64/include/QtCore;/home/guoxnqiang/Qt5/5.7/gcc_64/./mkspecs/linux-g++;/home/guoxnqiang/Qt5/5.7/gcc_64/include/QtGui;/home/guoxnqiang/Qt5/5.7/gcc_64/include/QtWidgets;/home/guoxnqiang/Qt5/5.7/gcc_64/include/QtXml;/home/guoxnqiang/Qt5/5.7/gcc_64/include/QtNetwork;/home/guoxnqiang/Qt5/5.7/gcc_64/include/QtPrintSupport;/home/guoxnqiang/Qt5/5.7/gcc_64/include/QtWebEngine;/home/guoxnqiang/Qt5/5.7/gcc_64/include/QtWebEngineCore;/home/guoxnqiang/Qt5/5.7/gcc_64/include/QtQuick;/home/guoxnqiang/Qt5/5.7/gcc_64/include/QtQml;/home/guoxnqiang/Qt5/5.7/gcc_64/include/QtWebChannel;/home/guoxnqiang/Qt5/5.7/gcc_64/include/QtWebEngineWidgets;/home/guoxnqiang/Qt5/5.7/gcc_64/include/QtWebSockets;/home/guoxnqiang/Downloads/Wizteam/WizQTClient/lib/quazip;/home/guoxnqiang/Downloads/Wizteam/build-WizQTClient-Desktop_Qt_5_7_0_GCC_64bit-Debug/lib/quazip;/usr/include")
+set(AM_MOC_OPTIONS "")
+set(AM_MOC_RELAXED_MODE "FALSE")
+set(AM_MOC_DEPEND_FILTERS "")
+set(AM_MOC_PREDEFS_CMD )
+# UIC settings
+set(AM_UIC_SKIP )
+set(AM_UIC_TARGET_OPTIONS )
+set(AM_UIC_OPTIONS_FILES )
+set(AM_UIC_OPTIONS_OPTIONS )
+set(AM_UIC_SEARCH_PATHS )
+# RCC settings
+set(AM_RCC_SOURCES  )
+set(AM_RCC_INPUTS )
+set(AM_RCC_OPTIONS_FILES )
+set(AM_RCC_OPTIONS_OPTIONS )
