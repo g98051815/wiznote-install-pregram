@@ -8,3 +8,4 @@
 3. ##make install
 4. ##程序会自动安装并且自动创建 wiznote.desktop
 5. ##文件会安装在 /usr/local/bin/ 文件夹下
+6. ##还需要安装依赖包  dnf install qt5-qtwebengine 直接输入命令即可
